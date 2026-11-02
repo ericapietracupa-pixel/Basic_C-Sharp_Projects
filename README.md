@@ -2,6 +2,7 @@
 This is where all the C# projects for the course (TACN13E1 - C# and .NET Framework - Part 1 & TACN23E1 - C# and .NET Framework - Part 2) will be housed.
 
 ## Part 1 - Projects:
+- [Console-App-Six-Part-Assignment](#console-app-six-part-assignment)
 - [ConsoleAppArrayAssignment](#consoleapparrayassignment)
 - [String_Assignment](#string_assignment)
 - [ConsoleAppWhileLoopsAssignment](#consoleappwhileloopsassignment)
@@ -11,6 +12,10 @@ This is where all the C# projects for the course (TACN13E1 - C# and .NET Framewo
 - [ConsoleApplicationAssignment](#consoleapplicationassignment)
 - [Daily_Report_Assignment](#daily_report_assignment)
 - [AcmeAccountingAssignment](#acmeaccountingassignment)
+
+
+### [Console-App-Six-Part-Assignment](https://github.com/ericapietracupa-pixel/Basic_C-Sharp_Projects/tree/master)
+C# console app demonstrating using arrays, lists, string manipulation, comparisons, etc.
 
 
 ### [ConsoleAppArrayAssignment](https://github.com/ericapietracupa-pixel/ConsoleAppArrayAssignment)
